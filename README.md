@@ -46,7 +46,7 @@ Em regiões onde esse tipo de transporte é essencial, o app se propõe a ser um
 
 Você pode baixar a versão atual do APK diretamente neste repositório:
 
-🔗 [`Viagens-cariri.apk`](./Viagens%20cariri.apk)
+🔗 🔗 [`Download APK`](./Viagens-cariri.apk)
 
 ---
 
